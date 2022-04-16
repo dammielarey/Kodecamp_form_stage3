@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image-section {
+    width: 40%;
+    background: url(https://i.postimg.cc/nrrvPNr5/Group-7.png) no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 100vh;
+}
+
+strong{
+    color: white;
+    padding: 30px;
+}
+
+.form-section {
+    width: 60%;
+    height: 100vh;
+    padding: 40px;
+}
+
+.form-row{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: black;
+}
+
+.tell{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+textarea{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.button {
+    background: #3E53C4;
+    border: 1px solid #086DB8;
+    box-sizing: border-box;
+    border-radius: 10px 0px;
+}
